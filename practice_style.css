@@ -1,0 +1,160 @@
+/* index.html */
+body.index {
+    background-color: papayawhip;
+    border: 0px;
+    padding: 0px;
+    margin: auto 150px;
+    background-image: url('https://images.pexels.com/photos/1036856/pexels-photo-1036856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+
+}
+
+h1 {
+    color:white;
+    text-align: center;
+    font-size: 350%;
+}
+
+h2 {
+    display: inline-block;
+    color:white;
+    border-radius: 10px;
+    padding: 50px;
+    font-size: 300%;
+    margin: 40px;
+}
+
+a{
+    font-size: 100%;
+    color:lightsalmon;
+}
+
+h3.description {
+    text-align: center;
+    color: white;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 30%;
+}
+
+h3.outfits {
+    color:papayawhip;
+    font-size: 500%;
+    font-style: italic;
+}
+
+ul p {
+    color:whitesmoke;
+    font-size: 150%;
+}
+
+.end{
+    background-color: cadetblue; 
+    border: 2px dotted yellow;
+    padding: 20px 50px;
+    margin: 60px 200px;   
+    display: inline-block;
+    color: black;
+    font-style: bolder;
+}
+
+img:hover {
+    opacity: 0.50;
+    
+}
+
+
+/* jackets.html */
+
+body.jackets {
+    background-color: lightblue;
+    display: inline-block;
+    border: 2px dashed red;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 40px 80px;
+}
+h1 {
+    text-align: center;
+    font-size: 300%;
+
+}
+
+.jacket_list {
+    font-style: italic;
+}
+
+h3 {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.inred {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 40%;
+}
+
+a.link {
+    font-size: 120%;
+    font-weight: bold;
+    color:lightcoral;
+}
+
+/* fashion.html */
+
+body.fashion {
+    background-color: lightslategrey;
+    display: inline-block;
+    border: 2px dashed red;
+    border-radius: 10px;
+    padding: 20px 50px;
+    margin: 40px 200px;
+}
+
+h1.title {
+    text-align: center;
+    font-size: 300%;
+}
+
+
+h3.first {
+    color:wheat;
+}
+
+.fash-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 50%;
+}
+
+
+
+/* block of code.html */
+
+body.block_of_code {
+    background-color: lightyellow;
+    display: inline-block;
+    border: 2px dashed red;
+    border-radius: 10px;
+    padding: 70px 5px 50px 50px;
+    margin: 30px 300px;
+}
+
+h1.antitle {
+    color:skyblue;
+    font-size: 300%;
+}
+
+.python {
+    font-size: 150%;
+    font-style: oblique;
+}
